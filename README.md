@@ -8,6 +8,8 @@ AutoHotkey Gui Buttons that you can edit in INI file.
 The buttons also interact with the last application you open. 
 Save your most typed words or sentences in the button.
 
+Youtube video: https://youtu.be/GSqXDVK96_I
+
 IMPORTANT: Save or copy details.ini on your desktop or you can change the location in the GuiTestIni.ahk code.
 
 Thank you
